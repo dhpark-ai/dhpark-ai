@@ -11,7 +11,7 @@ My long-term goal is to advance Physical AI in aerospace manufacturing — a dom
 
 ## 📫 Contact Me on Social Media
 
-[Personal Website][-1] | [LinkedIn][1] | [Google Scholar][2] | ✉️[Email](mailto:dhpark.ai@gmail.com) |
+[LinkedIn][1] | [Google Scholar][2] | ✉️[Email](mailto:dhpark.ai@gmail.com) |
 
 ## 💡 Projects with My Work
 
@@ -19,7 +19,7 @@ My long-term goal is to advance Physical AI in aerospace manufacturing — a dom
 
 ## 📚 Tech Articles and Talks 
 
-And get all my post articles in my blog 📝 [**Donghyeok's Blog**](https://dhpark-ai.github.io/archives/). 
+And get all my post articles in my blog 📝 [**Donghyeok's Blog**](https://dhpark-ai.github.io). 
  
 
 
@@ -38,6 +38,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[-1]: https://dhpark-ai.github.io/about/
 [1]: https://www.linkedin.com/in/dhparkai/
 [2]: https://scholar.google.com/citations?user=NIJbv_sAAAAJ=en
